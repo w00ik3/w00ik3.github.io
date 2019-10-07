@@ -6,7 +6,7 @@ There is nothing to show rn.
 
 It's c++ code
 
-```markdown
+```cpp
 #include <iostream>
 
 int main(int argc, char* argv[]){
