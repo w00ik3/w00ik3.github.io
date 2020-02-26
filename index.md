@@ -2,9 +2,9 @@
 
 There is nothing to show rn.
 
-### Here's some code
+### Here's some code.
 
-It's c++ code
+It's C++ code:
 
 ```cpp
 #include <iostream>
